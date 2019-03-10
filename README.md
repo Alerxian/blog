@@ -1,2 +1,2 @@
 # blog
-record learning
+记录学习笔记
